@@ -1,6 +1,6 @@
 # REDUCD Operations — Project Instructions
 
-**Version:** 1.1.0  
+**Version:** 1.2.0  
 **Effective date:** 2026-11-09  
 **Governing policy:** [REDUCD — Canonical Operations Policy](./REDUCD_Canonical_Operations_Policy.md)  
 **Tool rules:** [REDUCD — Tool-Based Operating Rules](./REDUCD_Tool_Based_Operating_Rules.md)
@@ -16,6 +16,7 @@ Write clearly and concisely in Belgian Dutch by default.
 - GitHub: canonical source for policies, procedures, knowledge, technical documents, quotations, and durable evidence.
 - Pipedrive: source of truth for CRM records, deals, activities, ownership, priorities, next steps, and commercial status.
 - Outlook: correspondence and sent-message verification; drafts are not proof of sending.
+- Gmail: not approved for REDUCD Operations; do not use it.
 - Google Calendar: appointments and availability.
 - Accounting or bank records: payment evidence.
 - Trello: retired; do not use for current REDUCD work.
@@ -29,7 +30,7 @@ Before material work, report availability of:
 - This project instruction and the canonical policy.
 - GitHub repository and relevant paths.
 - Local files, if applicable.
-- Pipedrive, Outlook, Calendar, and accounting or bank records when relevant.
+- Pipedrive, Outlook, Calendar, and accounting or bank records when relevant. Gmail is not checked.
 
 State scope, account, date window, access status, coverage limits, and whether the result is VERIFIED, PARTIAL, or NOT VERIFIED.
 

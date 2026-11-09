@@ -1,6 +1,6 @@
 # REDUCD — Tool-Based Operating Rules
 
-Version: 1.0.0  
+Version: 1.1.0  
 Effective date: 2026-11-09  
 Repository: REDUCD/REDUCD-OPERATIONS-MASTER  
 Policy: [REDUCD — Canonical Operations Policy](./REDUCD_Canonical_Operations_Policy.md)  
@@ -24,7 +24,7 @@ Before using a repository document:
 4. Check whether the document is marked active, superseded, draft, or archived.
 5. Use only the relevant document for the task.
 
-Do not treat a local copy, search result, cached excerpt, or Google Drive copy as current when GitHub provides the document.
+Do not treat a local copy, search result, cached excerpt, Google Drive copy, or Gmail content as an approved REDUCD source.
 
 ## Live operational systems
 
@@ -32,6 +32,7 @@ GitHub is authoritative for repository-held documents and evidence. The followin
 
 - Pipedrive: CRM records, deals, activities, ownership, commercial status, priorities, and next steps.
 - Outlook: received and sent correspondence.
+- Gmail: not approved for REDUCD Operations; do not search, read, draft, send, or update Gmail.
 - Google Calendar: appointments and availability.
 - Accounting or bank records: payment evidence.
 
