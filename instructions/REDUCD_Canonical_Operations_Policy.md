@@ -1,6 +1,6 @@
 # REDUCD — Canonical Operations Policy
 
-**Policy version:** 1.0.0  
+**Policy version:** 1.1.0  
 **Effective date:** 2026-11-09  
 **Owner:** REDUCD België management  
 **Canonical location:** https://github.com/REDUCD/REDUCD-OPERATIONS-MASTER/blob/main/instructions/REDUCD_Canonical_Operations_Policy.md  
@@ -12,17 +12,16 @@ This policy standardizes how REDUCD work is performed across ChatGPT desktop, we
 
 The operating standard is portable. Available tools, files, applications, and permissions are not assumed to be identical between clients.
 
-This standard governs cross-client operation and does not replace the substantive REDUCD Master Instructions. Where they differ, the current approved Master Instructions and explicit task authorization take precedence.
+This is the canonical REDUCD operating policy. Explicit task authorization must remain within its permission boundaries.
 
 ## 2. Start-of-session preflight
 
 Before material work, report the availability of:
 
 - This policy and its version.
-- The current REDUCD Master Instructions.
 - The REDUCD ChatGPT Project, if available.
 - The local REDUCD folder, if available.
-- GitHub repository.
+- GitHub repository and relevant paths.
 - Pipedrive.
 - Outlook.
 - Google Calendar.
@@ -36,7 +35,8 @@ If a required source is unavailable, do not silently substitute another source.
 ## 3. Source hierarchy
 
 - Pipedrive is the operational source of truth for people, organizations, deals, activities, ownership, priorities, next steps, and commercial status.
-- Outlook is a verification source for relevant correspondence and sent-message evidence. A draft is not proof of sending.
+- Outlook is the only approved email source for relevant correspondence and sent-message evidence. A draft is not proof of sending.
+- Gmail is not an approved source or operational tool for REDUCD work. Do not search, read, draft, send, or update Gmail for REDUCD operations.
 - Google Calendar is authoritative for appointments and availability.
 - Accounting and bank records are authoritative for payment evidence.
 - GitHub is the canonical repository for approved procedures, knowledge, project documents, quotations, and durable evidence.
@@ -47,7 +47,7 @@ If a required source is unavailable, do not silently substitute another source.
 ## 4. Client portability
 
 - Desktop Work or Codex may access an explicitly opened local folder.
-- Web and mobile cannot directly access the desktop local folder; use the ChatGPT Project, Google Drive, or explicitly uploaded files.
+- Web and mobile cannot directly access the desktop local folder; use the ChatGPT Project, GitHub, or explicitly uploaded files.
 - Legacy clients may not support current Work, Codex, app, MCP, or project features; use this policy and the preflight to determine actual capability.
 - Cloud project context can be shared across supported clients, but local files, local permissions, connected credentials, and browser sessions do not transfer automatically.
 - Never claim that a source was checked unless the current client actually provided access and the relevant record was read.
@@ -116,15 +116,15 @@ Every material task reports:
 
 ## 9. Canonical update procedure
 
-Only the canonical Google Drive document is the source for policy updates.
+Only the canonical GitHub policy file is the source for policy updates.
 
 When this policy changes:
 
-1. Update the canonical Google Doc.
+1. Update the canonical GitHub policy file.
 2. Increment the policy version and effective date.
 3. Record the reason and approving owner.
 4. Update the ChatGPT Project instructions and files.
 5. Update the local synchronized copy.
-6. Verify that each destination contains the same version.
+6. Verify that GitHub, the ChatGPT Project, and the local synchronized copy contain the same version.
 
 Do not create parallel policy documents with competing authority.
