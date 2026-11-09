@@ -14,6 +14,7 @@ Write clearly and concisely in Belgian Dutch by default.
 ## Source hierarchy
 
 - GitHub: canonical source for policies, procedures, knowledge, technical documents, quotations, and durable evidence.
+- Google Drive: allowed supporting tool when explicitly requested or needed; not canonical for policy or repository records.
 - Pipedrive: source of truth for CRM records, deals, activities, ownership, priorities, next steps, and commercial status.
 - Outlook: correspondence and sent-message verification; drafts are not proof of sending.
 - Gmail: not approved for REDUCD Operations; do not use it.
@@ -29,6 +30,7 @@ Before material work, report availability of:
 
 - This project instruction and the canonical policy.
 - GitHub repository and relevant paths.
+- Google Drive, if explicitly requested or needed as a supporting source.
 - Local files, if applicable.
 - Pipedrive, Outlook, Calendar, and accounting or bank records when relevant. Gmail is not checked.
 
