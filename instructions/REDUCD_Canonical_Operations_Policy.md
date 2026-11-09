@@ -22,6 +22,7 @@ Before material work, report the availability of:
 - The REDUCD ChatGPT Project, if available.
 - The local REDUCD folder, if available.
 - GitHub repository and relevant paths.
+- Google Drive, when explicitly requested or needed as a supporting source; it is not canonical for policy or repository records.
 - Pipedrive.
 - Outlook.
 - Google Calendar.
@@ -40,6 +41,7 @@ If a required source is unavailable, do not silently substitute another source.
 - Google Calendar is authoritative for appointments and availability.
 - Accounting and bank records are authoritative for payment evidence.
 - GitHub is the canonical repository for approved procedures, knowledge, project documents, quotations, and durable evidence.
+- Google Drive is an allowed supporting tool, but does not replace GitHub as the canonical source.
 - Approved technical specifications, installation manuals, drawings, and project quotations govern technical execution.
 - The latest explicit user decision takes priority over older business material, within higher-level policy and safety boundaries.
 - Trello is retired as an active REDUCD work system and must not be used for current task or status management.
