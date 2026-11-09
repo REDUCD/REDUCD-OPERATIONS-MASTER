@@ -24,7 +24,7 @@ Before using a repository document:
 4. Check whether the document is marked active, superseded, draft, or archived.
 5. Use only the relevant document for the task.
 
-Do not treat a local copy, search result, cached excerpt, Google Drive copy, or Gmail content as an approved REDUCD source.
+Do not treat a local copy, search result, cached excerpt, or Gmail content as an approved REDUCD source. Google Drive may be used as a supporting tool when explicitly requested, but GitHub remains canonical for policies and repository records.
 
 ## Live operational systems
 
@@ -32,6 +32,7 @@ GitHub is authoritative for repository-held documents and evidence. The followin
 
 - Pipedrive: CRM records, deals, activities, ownership, commercial status, priorities, and next steps.
 - Outlook: received and sent correspondence.
+- Google Drive: allowed supporting tool when explicitly requested or needed; not canonical for policy or repository records.
 - Gmail: not approved for REDUCD Operations; do not search, read, draft, send, or update Gmail.
 - Google Calendar: appointments and availability.
 - Accounting or bank records: payment evidence.
